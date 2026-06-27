@@ -1,4 +1,4 @@
-\# Scorpio Multitool
+# Scorpio Multitool
 
 > A powerful OSINT \& network multitool made by n0pt
 
