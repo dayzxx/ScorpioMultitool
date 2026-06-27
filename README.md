@@ -39,5 +39,5 @@ python MultiTool.py
 
 ---
 
-> Made by [dayzx](https://guns.lol/dayzx)
+> Made by [dayzx] (https://guns.lol/dayzx)
 
