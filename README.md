@@ -8,7 +8,7 @@
 
 
 
-\## Features
+## Features
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -88,7 +88,7 @@ python MultiTool.py
 
 
 
-\## Platforms
+## Platforms
 
 
 
