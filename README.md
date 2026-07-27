@@ -26,7 +26,8 @@ Requirements: Python 3.10+
 ```
 git clone https://github.com/dayzxx/ScorpioMultitool.git
 cd ScorpioMultitool
-python setup.py
+pip install requirements.txt
+python MultiTool.py
 ```
 
 ---
